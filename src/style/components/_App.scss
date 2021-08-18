@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+    font-family: Courier, "Lucida Console", monospace ;
+
+}
+.App {
+    margin: 20px;
+    height: 90vh;
+    background-color: rgba(211, 211, 211, 0.253);
+    button {
+        background-color: rgb(60, 69, 78);
+        color: whitesmoke;
+        padding: 10px;
+        border: none
+    }
+}
